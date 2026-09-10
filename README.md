@@ -259,4 +259,4 @@ This repository serves as the official landing page for Pingus. The software is 
 **Get the most recent version of Pingus today!**
 
 ---
-**Last updated:** 2026-09-10 12:51:37 UTC
+**Last updated:** 2026-09-10 16:57:47 UTC
